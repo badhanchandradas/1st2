@@ -1,0 +1,194 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Rubik', sans-serif;
+}
+
+.background{
+    background-image:url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.layout{
+    text-align:center;
+    padding:200px 300px;
+    color:white;
+
+    
+    
+}
+.button{
+    
+    text-decoration:none;
+    color:white;
+    background-color:#FF5959;
+    padding:15px;
+    border-radius:10px;
+
+}
+
+.button-margin{
+    padding-top:50px;
+
+}
+
+
+.button2nd{
+    padding-top: 30px;
+    text-align: center;
+
+}
+
+h1{
+    font-size:50px;
+}
+.fund{
+    margin-left:15%;
+    margin-right:15%;
+}
+.fund-word{
+    text-align:center;
+}
+.fund-box{
+    display: flex;
+    margin-top:100px;
+}
+
+.fund-money{
+    width:20%;
+    margin-left: 1%;
+    margin-right:1%;
+    border-radius:10px;
+    box-shadow:10px 10px 10px gray;
+}
+#money2{
+    border:3px solid red;
+    border-radius:10px;
+}
+#money2-word{
+    color:red;
+}
+.money{
+    text-align: center;
+}
+
+
+.donate-plan-word{
+    text-align:center;
+    padding-left:90px;
+    padding-right:90px;
+}
+
+.donate-plan{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+
+
+.donate-plan-box{
+    display: flex;
+   width:;
+    
+}
+.donate-item{
+    width:33%;
+    margin:30px;
+    padding:20px;
+    box-shadow:10px 10px 20px gray;
+
+}
+
+#food{
+    background-color:#EDF5F6;
+}
+#medicine {
+    background-color: #FFEEEE;
+}
+
+#clothes{
+    background-color: #FFF4D6;
+}
+.icon{
+    width: 80px;
+}
+
+.half-width{
+    width:50%; 
+    text-align:start;
+}
+
+.images-size{
+   width:90%;
+}
+
+#images-stand{
+ 
+ border-radius:20px;
+ margin-left: 30px;
+}
+
+#images-hand{
+    border-radius:20px;
+}
+
+.fund-help{
+    display: flex;
+    margin:5% 12%;
+    
+}
+
+.end-part{
+    background-color: #FFF4D6;
+    padding:80px;
+    margin-left:25%;
+    margin-right:25%;
+    border-radius:15px;
+   
+
+}
+
+#contacts{
+    border-radius:10px;
+    background-color: #D9D9D9;
+    display: flex;
+    
+}
+
+#email{
+    color:#ABA0A0 ;
+    padding-left:30px;
+    width:75%;
+
+}
+
+#subscribe{
+    padding-left:30px;
+    padding-right:30px;
+    width:25%;
+ background-color:#FF5959 ;
+ color: white;
+    text-align:center;
+ 
+}
+
+
+footer{
+    margin-top:30px;
+    padding: 10px;
+    
+    background-color: rgb(22, 19, 19);
+    text-align: center;
+}
+
+footer h1{
+    color: #FF0E0E;
+}
+
+footer p{
+    color: white;
+}
